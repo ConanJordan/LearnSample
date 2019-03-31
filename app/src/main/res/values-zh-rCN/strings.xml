@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">画面控件样本</string>
+    <string name="tv_msg">请输入姓名</string>
+    <string name="bt_save">保存</string>
+    <string name="cb_drink">饮料</string>
+    <string name="cb_food">食品</string>
+</resources>

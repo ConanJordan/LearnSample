@@ -1,0 +1,61 @@
+<resources>
+    <!--<string name="app_name">商品サンプル</string>-->
+    <string name="app_name">リスト選択サンプル2</string>
+
+    <string-array name="lv_menu">
+        <item>から揚げ定食</item>
+        <item>ハンバーグ定食</item>
+        <item>生姜焼き定食</item>
+        <item>ステーキ定食</item>
+        <item>野菜炒め定食</item>
+        <item>とんかつ定食</item>
+        <item>ミンチかつ定食</item>
+        <item>チキンかつ定食</item>
+        <item>コロッケ定食</item>
+        <item>焼き魚定食</item>
+        <item>焼肉定食</item>
+    </string-array>
+
+    <string name="app_name_hello_activity" translatable="false">イベントとリスナサンプル</string>
+    <string name="tv_msg">お名前を入力してください。</string>
+    <string name="bt_save">保存</string>
+    <string name="cb_drink">ドリンク</string>
+    <string name="cb_food">フード</string>
+    <string name="rb_male" translatable="false">男</string>
+    <string name="rb_female" translatable="false">女</string>
+    <string name="tv_name" translatable="false">お名前を入力してください。</string>
+    <string name="bt_click" translatable="false">表示</string>
+    <string name="bt_clear" translatable="false">クリア</string>
+
+    <string-array name="sp_currylist">
+        <item>ドライカレー</item>
+        <item>カツカレー</item>
+        <item>ビーフカレー</item>
+        <item>チキンカレー</item>
+        <item>シーフードカレー</item>
+        <item>キーマカレー</item>
+        <item>グリーンカレー</item>
+    </string-array>
+
+    <string-array name="lv_cocktaillist">
+        <item>ホワイトレディ</item>
+        <item>バラライカ</item>
+        <item>XYZ</item>
+        <item>ニューヨーク</item>
+        <item>マンハッタン</item>
+        <item>ミシシッピミュール</item>
+        <item>ブルーハワイ</item>
+    </string-array>
+
+    <!-- リスト選択サンプル2の文字列アイテム -->
+    <string name="dialog_title" translatable="false">注文確認</string>
+    <string name="dialog_msg" translatable="false">選択された定食を注文します。よろしいですか。</string>
+    <string name="dialog_btn_ok" translatable="false">注文</string>
+    <string name="dialog_btn_ng" translatable="false">キャンセル</string>
+    <string name="dialog_btn_nu" translatable="false">問合せ</string>
+    <string name="dialog_ok_toast" translatable="false">ご注文ありがとうございます。</string>
+    <string name="dialog_ng_toast" translatable="false">ご注文をキャンセルしました。</string>
+    <string name="dialog_nu_toast" translatable="false">お問い合わせ内容をお知らせください。</string>
+
+
+</resources>
